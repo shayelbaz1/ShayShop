@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         total= findViewById(R.id.textViewTotal);
         toCartButton = findViewById(R.id.buttonCart);
         toCartButton.setOnClickListener(this);
-        Toast.makeText(this, "welcome ", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "welcome  ", Toast.LENGTH_SHORT).show();
         items.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View v,
                                     int position, long id) {
