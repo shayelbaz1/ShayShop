@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shay-Shop</string>
+    <string name="total_info_name">Total Cost:</string>
+    <string name="total_name">0$</string>
+    <string name="cartButton_name">View Cart</string>
+
+    <string name="shopping_name">Shopping Cart</string>
+    <string name="shirts_name">Shirts:</string>
+    <string name="price_name">Price($):</string>
+    <string name="remove_name">Remove:</string>
+    <string name="finalize_name">Finish</string>
+    <string name="back_shop_name">Go Back</string>
+    <string name="cartTotal_name">Total:</string>
+
+</resources>
