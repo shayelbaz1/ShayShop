@@ -1,5 +1,4 @@
-/**
- * Android 4 – Shopping App
+Android 4 – Shopping App
 
  Student’s Information
  Shay Elbaz, ID 203245816, Email: shaysha6@gmail.com
@@ -25,4 +24,3 @@
  Algorithms
  No algorithems were used in this assignment.
  * @author shayelbaz
- */
