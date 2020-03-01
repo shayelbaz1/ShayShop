@@ -2,7 +2,7 @@ Android 4 – Shopping App
 
  Student’s Information
  Shay Elbaz, ID 203245816, Email: shaysha6@gmail.com
- Second Year Computer Science Department- Ashkelon Academic College
+ Second Year Computer Science Department - Ashkelon Academic College
 
  Assignment
  Build a Shopping app, that calculate the amount of cost to pay, and remember the chosen products.
