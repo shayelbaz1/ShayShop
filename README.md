@@ -2,6 +2,7 @@ Android 4 – Shopping App
 
  Student’s Information
  Shay Elbaz, ID 203245816, Email: shaysha6@gmail.com
+ 
  Second Year Computer Science Department - Ashkelon Academic College
 
  Assignment
